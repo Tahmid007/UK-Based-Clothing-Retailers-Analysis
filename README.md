@@ -37,6 +37,8 @@ This UK clothing retailer operates across multiple channels, selling everything 
 ### 1. 📊 Sales Performance Command Center
 *"Knowledge is power, but applied knowledge is profit."*
 
+![Screenshot 2025-06-02 152230](https://github.com/user-attachments/assets/e3dda67e-9346-4df6-93cf-2c99832af3d9)
+
 **What it reveals:**
 - Individual order tracking with granular SKU-level details
 - Sales vs. Cost relationship analysis through dynamic scatter plots
@@ -47,6 +49,8 @@ This UK clothing retailer operates across multiple channels, selling everything 
 ### 2. 🏪 Channel Performance Matrix
 *"Not all sales channels are created equal."*
 
+![Screenshot 2025-06-02 152422](https://github.com/user-attachments/assets/84189eb9-08cc-4cff-a551-78be0948b8f4)
+
 **Key Discovery:**
 - **Franchise stores** emerge as the clear winner, driving the highest order volumes
 - **Supermarket channel** shows untapped potential
@@ -56,6 +60,8 @@ This UK clothing retailer operates across multiple channels, selling everything 
 
 ### 3. 🎨 Color & Gender Analytics Engine
 *"Understanding preferences is the key to customer satisfaction."*
+
+![Screenshot 2025-06-02 152446](https://github.com/user-attachments/assets/11a26f41-8ab5-4cbe-ae31-c2b7f2c81143)
 
 **Fascinating Findings:**
 - **Blue** and **Green** show universal appeal across both genders
@@ -68,6 +74,8 @@ This UK clothing retailer operates across multiple channels, selling everything 
 ### 4. 📅 Temporal Trends & Profitability Analysis
 *"Timing isn't everything – it's the only thing."*
 
+![Screenshot 2025-06-02 152509](https://github.com/user-attachments/assets/1b749074-bbb9-4ae6-a7b3-6af09a63ee10)
+
 **Critical Insights:**
 - Peak sales month: **February 2021** (£138,566 revenue)
 - Seasonal patterns clearly visible with mid-year dips
@@ -77,6 +85,8 @@ This UK clothing retailer operates across multiple channels, selling everything 
 
 ### 5. 🎯 The Profit Margin Challenge
 *"The numbers don't lie – and sometimes they're uncomfortable."*
+
+![Screenshot 2025-06-02 152534](https://github.com/user-attachments/assets/22377c3d-467b-4144-8373-ed59853671de)
 
 **The Hard Truth:**
 - **Current profit margin: 49.30%**
@@ -92,6 +102,8 @@ This represents a critical business challenge requiring immediate strategic inte
 ### 6. 📈 Performance vs. Targets Dashboard
 *"Targets without tracking are just wishes."*
 
+![Screenshot 2025-06-02 152558](https://github.com/user-attachments/assets/4ef4652f-76d8-4fe8-bbe6-18dd85b223ca)
+
 **Current Performance:**
 - **Orders Target:** 180 vs **Actual:** 141 (-21.67% shortfall)
 - **Returns Target:** 10 vs **Actual:** 4 (+60% better than expected)
@@ -100,6 +112,8 @@ This represents a critical business challenge requiring immediate strategic inte
 
 ### 7. 👩 Women's Product Performance Spotlight
 *"Product success isn't just about sales – it's about strategic positioning."*
+
+![ss](https://github.com/user-attachments/assets/74958fe6-05c7-4ab7-9497-0acfb5a50811)
 
 **Star Performers:**
 - Hera Pullover Hoodie
